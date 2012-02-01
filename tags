@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Character	lib/character.rb	/^class Character$/;"	c
+Eyes	lib/character.rb	/^  class Eyes$/;"	c	class:Character
+InfravisionPotion	lib/infravision_potion.rb	/^class InfravisionPotion$/;"	c
+affect	lib/infravision_potion.rb	/^  def affect(character)$/;"	f	class:InfravisionPotion
+drink	lib/character.rb	/^  def drink(potion)$/;"	f	class:Character
+enchant_eyes_with	lib/character.rb	/^  def enchant_eyes_with(enchantment)$/;"	f	class:Character
+initialize	lib/character.rb	/^  def initialize$/;"	f	class:Character
+look	lib/character.rb	/^    def look$/;"	f	class:Character.Eyes
+look	lib/character.rb	/^  def look$/;"	f	class:Character
+observe	lib/character.rb	/^  def observe$/;"	f	class:Character
